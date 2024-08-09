@@ -17,7 +17,7 @@ In my free time, you'll find me experimenting with hardware and building custom 
 - **Web Scraping & AI:** Automating data extraction and playing with AI models to tackle real-world challenges.
 
 ### 🤝 Let's Collaborate:
-I'm always open to collaboration on open-source projects, especially those involving cutting-edge technologies like microservices, AI, or hardware integration.
+I'm always open to collaboration on open-source projects, especially those involving cutting-edge technologies like web, microservices, AI, or hardware integration.
 
 ### 📬 How to Reach Me:
 - **Email:** [jordanserafini.74@gmail.com](mailto:jordanserafini.74@gmail.com)
