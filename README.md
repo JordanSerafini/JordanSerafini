@@ -1,31 +1,31 @@
-# Hello, I'm Jordan 👋
+# 👋 Hello, I'm Jordan
 
 ## 🧑‍💻 About Me
 
-I am currently a software development apprentice, deeply passionate about all things tech. My journey into the world of development has been fueled by a relentless curiosity and a drive to build innovative solutions.
+I'm a passionate software development apprentice with a love for all things tech. My journey in the world of development is driven by an insatiable curiosity and a commitment to crafting innovative solutions.
 
-### 🌱 My Skills and Expertise:
-- **Frontend:** React, TypeScript, Next.js, React Native (for mobile)
-- **Backend:** Node.js, NestJS, Microservices architecture, clean archi
+### 🌟 Skills & Expertise:
+- **Frontend:** React, TypeScript, Next.js, React Native
+- **Backend:** Node.js, NestJS, Microservices, Clean Architecture
 - **Databases:** PostgreSQL, MySQL, MongoDB, GraphQL, Redis
 - **DevOps & Tools:** Docker, Kubernetes, CI/CD, Git
 - **Others:** Arduino, Web Scraping, Artificial Intelligence
 
-### 🛠️ Personal Projects:
-In my free time, I love tinkering with hardware and building custom projects. I'm currently working on:
-- **Personal Flipper Zero:** A custom-built multi-tool for hacking, inspired by Flipper Zero.
-- **Web Scraping & AI:** Automating data extraction and experimenting with AI models to solve real-world problems.
+### 🛠️ What I'm Working On:
+In my free time, you'll find me experimenting with hardware and building custom projects. Here's what I'm currently up to:
+- **Personal Flipper Zero:** A custom-built multi-tool for hacking, inspired by the original Flipper Zero.
+- **Web Scraping & AI:** Automating data extraction and playing with AI models to tackle real-world challenges.
 
-### 👯 Let's Collaborate:
-I'm always open to collaborating on open-source projects, especially those involving cutting-edge technologies like microservices, AI, or hardware integrations.
+### 🤝 Let's Collaborate:
+I'm always open to collaboration on open-source projects, especially those involving cutting-edge technologies like microservices, AI, or hardware integration.
 
-### 📫 How to Reach Me:
+### 📬 How to Reach Me:
 - **Email:** [jordanserafini.74@gmail.com](mailto:jordanserafini.74@gmail.com)
 - **LinkedIn:** [Jordan Serafini](https://fr.linkedin.com/in/jordan-serafini-63b9b2177)
-- **Portfolio:** [In progress]
+- **Portfolio:** [Coming Soon!]
 
 ### ⚡ Fun Fact:
-If I had spent as many hours on dev as I have on Apex Legends, I'd probably be leading a team at Apple by now.
+If I had spent as many hours coding as I have playing Apex Legends, I'd probably be leading a tech team at Apple by now. 😄
 
 ## 🚀 Technologies & Tools
 
