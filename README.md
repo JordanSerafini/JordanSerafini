@@ -50,7 +50,7 @@ When I'm not coding or building gadgets, you can find me experimenting with web 
 
 ## 📊 GitHub Stats
 
-![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JordanSerafini&show_icons=true&theme=radical&cache_seconds=1800)
+![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JordanSerafini&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordanSerafini&layout=compact&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=JordanSerafini&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
