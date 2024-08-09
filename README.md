@@ -25,7 +25,7 @@ I'm always open to collaborating on open-source projects, especially those invol
 - **Portfolio:** [In progress]
 
 ### ⚡ Fun Fact:
-When I'm not coding or building gadgets, you can find me experimenting with web scraping techniques or diving into the world of artificial intelligence.
+If I had spent as many hours on dev as I have on Apex Legends, I'd probably be leading a team at Apple by now.
 
 ## 🚀 Technologies & Tools
 
