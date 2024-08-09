@@ -54,6 +54,10 @@ When I'm not coding or building gadgets, you can find me experimenting with web 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordanSerafini&layout=compact&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=JordanSerafini&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 📈 Contribution Graph
+
+![Jordan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JordanSerafini&theme=radical&count_private=true)
+
 ## 🌐 Connect with Me
 
 - **Email:** [jordanserafini.74@gmail.com](mailto:jordanserafini.74@gmail.com)
