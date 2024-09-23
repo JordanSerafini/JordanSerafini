@@ -22,7 +22,7 @@ I'm always open to collaboration on open-source projects, especially those invol
 ### 📬 How to Reach Me:
 - **Email:** [jordanserafini.74@gmail.com](mailto:jordanserafini.74@gmail.com)
 - **LinkedIn:** [Jordan Serafini](https://fr.linkedin.com/in/jordan-serafini-63b9b2177)
-- **Portfolio:** [Coming Soon!]
+- **Portfolio:** You re in
 
 ### ⚡ Fun Fact:
 If I had spent as many hours coding as I have playing Apex Legends, I'd probably be leading a tech team at Apple by now. 😄
