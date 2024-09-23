@@ -55,7 +55,6 @@ If I had spent as many hours coding as I have playing Apex Legends, I'd probably
 ![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-007ACC?logo=architecture&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -63,9 +62,7 @@ If I had spent as many hours coding as I have playing Apex Legends, I'd probably
 ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
+
 
 
 ## 🛠️ Current Projects
