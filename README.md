@@ -8,7 +8,7 @@ I'm a passionate software development apprentice with a love for all things tech
 - **Frontend:** React, TypeScript, Next.js, React Native
 - **Backend:** Node.js, NestJS, Microservices, Clean Architecture
 - **Databases:** PostgreSQL, MySQL, MongoDB, GraphQL, Redis
-- **DevOps & Tools:** Docker, Kubernetes, CI/CD, Git
+- **DevOps & Tools:** Docker, Docker swarm, Kubernetes, CI/CD, Git
 - **Others:** Arduino, Web Scraping, Artificial Intelligence
 
 ### 🛠️ What I'm Working On:
