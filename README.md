@@ -5,11 +5,13 @@
 I'm a passionate software development apprentice with a love for all things tech. My journey in the world of development is driven by an insatiable curiosity and a commitment to crafting innovative solutions.
 
 ### 🌟 Skills & Expertise:
-- **Frontend:** React, TypeScript, Next.js, React Native
+- **Frontend:** React, TypeScript, Next.js, React Native, Tailwind
 - **Backend:** Node.js, NestJS, Microservices, Clean Architecture
 - **Databases:** PostgreSQL, MySQL, MongoDB, GraphQL, Redis
-- **DevOps & Tools:** Docker, Docker swarm, Kubernetes, CI/CD, Git
-- **Others:** Arduino, Web Scraping, Artificial Intelligence
+- **DevOps & Tools:** Docker, Docker swarm, CI/CD, Git
+- **Artificial Intelligence / Vector Database:** : Fine tuning , RAG, PgVector, elasticsearch
+- **Others:** Arduino, Web Scraping, ThreeJS, JWT
+
 
 ### 🛠️ What I'm Working On:
 In my free time, you'll find me experimenting with hardware and building custom projects. Here's what I'm currently up to:
