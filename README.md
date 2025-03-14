@@ -24,7 +24,6 @@ I'm always open to collaboration on open-source projects, especially those invol
 ### 📬 How to Reach Me:
 - **Email:** [jordanserafini.74@gmail.com](mailto:jordanserafini.74@gmail.com)
 - **LinkedIn:** [Jordan Serafini](https://fr.linkedin.com/in/jordan-serafini-63b9b2177)
-- **Portfolio:** You re in
 
 ## 🚀 Technologies & Tools
 
@@ -40,14 +39,12 @@ I'm always open to collaboration on open-source projects, especially those invol
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Microservices](https://img.shields.io/badge/-Microservices-FFCA28?logo=microservices&logoColor=black)
