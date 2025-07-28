@@ -19,33 +19,32 @@ When I'm not coding, you'll often find me tinkering with devices like the Flippe
 ## 🔧 Skills & Expertise
 
 ### 💻 Frontend  
-React · Next.js · React Native · TypeScript · TailwindCSS · Redux · Three.js
+React · Next.js · React Native · TypeScript · TailwindCSS · Redux ·
 
 ### 🖥️ Backend  
-NestJS · Node.js · Express.js · Clean Architecture · Microservices · REST & GraphQL APIs · JWT Auth
+NestJS · Node.js · Clean Architecture · Microservices ·
 
 ### 🧠 AI & Data  
-Fine-tuning · RAG · Vector Databases · LangChain · OpenAI API · Elasticsearch · pgvector · TensorFlow
+Fine-tuning · RAG · Vector Databases · LangChain · Elasticsearch · pgvector · TensorFlow
 
 ### 🛢️ Databases  
-PostgreSQL · MongoDB · MySQL · Redis · Prisma ORM
+PostgreSQL · MongoDB · MySQL · Redis ·
 
 ### ⚙️ DevOps & Tools  
-Docker · Docker Swarm · Git · CI/CD (GitHub Actions) · Nginx · Apache · Linux
+Docker · Docker Swarm · Git · CI/CD · Nginx · Apache · Linux ·
 
 ### 🧪 Testing  
-Jest · Mocha · Supertest · Postman
+Jest · Mocha · Supertest · Postman ·
 
 ### 🔍 Other  
-Arduino · Web Scraping · Web Security · MLOps · PySpark · Streamlit · Bash · C++
+Arduino · Web Scraping · Web Security · MLOps · PySpark · Streamlit · Bash · C++ · 
 
 ---
 
 ## 🛠️ What I'm Working On
 
 - 🐙 **Custom Flipper Zero Toolkit**: A personal multi-tool for ethical hacking, automation, and signal testing  
-- 🤖 **AI Workflow Assistant**: An intelligent pipeline combining scraping, vector search, and OpenAI models  
-- 🌿 **GreenRoots**: An e-commerce platform for reforestation projects (React, NestJS, PostgreSQL, Stripe)
+- 🤖 **AI Workflow Assistant**: An intelligent pipeline combining scraping, vector search, and AI models  
 
 ---
 
