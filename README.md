@@ -53,7 +53,6 @@ Arduino · Web Scraping · Web Security · MLOps · PySpark · Streamlit · Bash
 | Project | Description |
 |--------|-------------|
 | [🔗 micro-service-SLI](https://github.com/JordanSerafini/micro-service-SLI) | Microservices architecture for a modular internal platform |
-| [🔗 GreenRoots](https://github.com/JordanSerafini/greenroots) | Full-stack eco-platform for sponsoring tree planting |
 
 ---
 
