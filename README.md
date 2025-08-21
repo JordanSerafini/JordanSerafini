@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jordan
 
-## 🧠 AI Engineer | Full-Stack Developer
+## 🧠 AI Engineer | Developer
 
 I’m Jordan, a curious and committed developer currently pursuing an **RNCP Level 7 diploma (equivalent to a Master’s)** in Artificial Intelligence & Machine Learning.  
 Previously certified at **RNCP Levels 5 & 6 in Application Development**, I’ve built a solid foundation in full-stack engineering and software architecture.
