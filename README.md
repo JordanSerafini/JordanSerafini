@@ -112,4 +112,3 @@
 
   ---
 
-  *Open to opportunities in AI Engineering, Full-Stack Development, and Data/Observability roles.*
