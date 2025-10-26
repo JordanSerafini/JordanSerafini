@@ -111,7 +111,7 @@ Docker · Docker Swarm · CI/CD · Nginx · Linux · Monitoring & Alerting
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JordanSerafini&theme=onedark&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JordanSerafini&theme=radical&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
