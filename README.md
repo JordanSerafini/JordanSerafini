@@ -107,7 +107,7 @@
 
   ## 🌐 Contact
 
-  - 📧 **Email:** [jordanserafini.74@gmail.com](mailto:jordanserafini.74@gmail.com)
+  - 📧 **Email:** [jordanserafini.74@gmail.com](mailto:contact@jordan-s.org)
   - 💼 **LinkedIn:** [Jordan Serafini](https://fr.linkedin.com/in/jordan-serafini-63b9b2177)
 
   ---
