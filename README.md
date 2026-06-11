@@ -1,230 +1,36 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Jordan+%F0%9F%91%8B;AI+Engineer+%E2%80%A2+Full-Stack+Developer;Data+%26+Observability+Specialist;Building+robust%2C+intelligent%2C+observable+systems" alt="header" />
-</h1>
+# Hey, I'm Jordan 👋
 
-<p align="center">
-  <a href="mailto:contact@jordan-s.org"><img src="https://img.shields.io/badge/Email-contact%40jordan--s.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://fr.linkedin.com/in/jordan-serafini-63b9b2177"><img src="https://img.shields.io/badge/LinkedIn-Jordan%20Serafini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-France-0055A4?style=for-the-badge&logo=mapbox&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=JordanSerafini&label=Profile%20views&color=7C3AED&style=for-the-badge" />
-</p>
+AI engineer & full-stack dev based in France. I spend most of my time between NestJS backends, React Native apps and ML pipelines. Currently finishing a master's level degree (RNCP 7) in AI & Machine Learning at DataScientest x Mines Paris PSL.
 
----
-
-## 🧬 Whoami
-
-```yaml
-name:        Jordan Serafini
-role:        AI Engineer · Senior Full-Stack Developer · Observability Specialist
-education:   RNCP 7 (Master) — AI & ML · DataScientest x Mines Paris  [in progress]
-             RNCP 6 & RNCP 5 — Application Development  [certified]
-ships:       enterprise ERP · ML/observability platforms · cross-platform mobile · AI agents
-mindset:     pragmatic · security-aware · zero-bullshit · ship and observe
-playground:  Linux/KDE · Docker swarm · self-hosted everything · Flipper Zero
-```
-
-I build systems that **think, scale and stay observable** — from offline-first ERP mobile apps to AI-augmented monitoring platforms and a 100+ agent personal AI orchestrator.
-
----
-
-## 🚀 Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 EBP App — Enterprise ERP Suite
-Monorepo : **NestJS 11** + **Next.js 16 / React 19** + **Expo SDK 54** mobile.
-
-`NestJS` `Next.js 16` `React Native` `WatermelonDB` `PostgreSQL` `MSSQL` `OpenAI` `Tailscale`
-
-- **Offline-first** mobile via WatermelonDB ↔ NestJS sync
-- EBP ERP + **NinjaOne RMM** integration · push notifications Expo
-- AI-assisted reporting (`openai`), PDF/Excel exports, JWT/Throttler hardening
-- Production-grade interventions · facturation · stock management
-
-</td>
-<td width="50%" valign="top">
-
-### 📡 Data-Driven SLI Platform
-**SLI/SLO observability** + **ML anomaly detection** for service reliability.
-
-`NestJS` `FastAPI` `CatBoost` `Isolation Forest` `OpenTelemetry` `pgvector` `Recharts`
-
-- ETL **bronze / silver / gold** medallion (DataLake → DataWarehouse)
-- ML inference API (FastAPI) · trained CatBoost + IsolationForest models
-- Custom SLI/SLO dashboards · cost-optimized pipeline
-- **MTTR -60%** through proactive alerting
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏃 SportPoint — Coaching Platform
-**NestJS microservices** + **React Native** mobile app.
-
-`NestJS` `Microservices` `React Native` `PostgreSQL` `JWT` `Swagger`
-
-- Services: api-gateway · auth · chat · coaching · notifications · spots
-- Mobile-first UX · real-time training feedback
-- Hardened gateway (helmet · throttler · http-proxy)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AURA-OS — Personal AI Orchestrator
-**119 agents** · multi-skill router · self-hosted on Linux/KDE.
-
-`Python` `FastAPI` `APScheduler` `Claude SDK` `MCP` `SQLite`
-
-- 36 scheduled cron + event-driven · self-healing heartbeat
-- 16 skills · 100+ MCP tools · Telegram + Voice + KDE Plasma bridges
-- Hooks-based security · token economy · night auto-improvement
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏠 Compagnon Immo — French Real-Estate ML
-**RNCP 7 / DataScientest** capstone · price-per-m² prediction.
-
-`Python` `scikit-learn` `XGBoost` `CatBoost` `SHAP` `Streamlit` `INSEE data`
-
-- **5.9M listings** · 101 départements · 2019-2026
-- RF + INSEE features → **R² 0.958 · RMSE 397 €/m²**
-- 73% of predictions within ±100 €/m² of real price
-- Streamlit dashboard for interactive demo
-
-</td>
-<td width="50%" valign="top">
-
-### 🚲 Vélib' DPM — Data Product Management
-**RNCP 7** Discovery + Conception phases on Paris bike-share.
-
-`GBFS API` `SQL` `BI` `MVP design` `Roadmapping`
-
-- Business Model Canvas · personas · KPI framework (SOR/DOR/RE)
-- 12-month product roadmap · MVP → backlog
-- ML & BI methodologies · architecture cost evaluation
-- ~20k bikes · 470k subscribers · 49M trips/year analyzed
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🧩 DentiGarde · TeamPulse — SaaS Next.js stacks
-**Next.js · Prisma · NextAuth · BullMQ · shadcn/ui · PostgreSQL · Leaflet**
-Job queues · transactional emails · geo · containerized dev/prod splits with Docker Compose.
-
-</td>
-</tr>
-</table>
-
----
-
-## 📡 Tech radar
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**🧠 AI / ML**
-- RAG · agentic workflows · MCP
-- LangChain · OpenAI · Claude SDK
-- Vector DBs : pgvector · Qdrant · Pinecone
-- CatBoost · Isolation Forest · sklearn
-- PyTorch · TensorFlow · fine-tuning
-
-</td>
-<td valign="top" width="33%">
-
-**⚙️ Backend & Mobile**
-- **NestJS** (microservices · gateway · DDD)
-- **Node 22** · Express · Socket.io
-- **Python** : FastAPI · Pydantic
-- **React Native + Expo** · WatermelonDB
-- **Next.js 16 / React 19** · Prisma · shadcn
-
-</td>
-<td valign="top" width="33%">
-
-**🗄️ Data & Ops**
-- PostgreSQL · MSSQL · MongoDB · Redis
-- BullMQ · medallion ETL (bronze/silver/gold)
-- OpenTelemetry · Grafana · Elasticsearch
-- Docker · Swarm · CI/CD · Nginx · Tailscale
-- Linux power-user · systemd · KDE
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Currently exploring
-
-| Area | What I'm shipping |
-|------|-------------------|
-| 🤖 Multi-agent systems | Specialized sub-agents, deterministic chains, MCP tooling (AURA) |
-| 🔗 Graph-RAG | Hybrid retrieval (vector + KG) for enterprise context |
-| 📱 Mobile perf | React Native New Architecture (Fabric · TurboModules · JSI) |
-| 🔌 Edge & embedded | Flipper Zero · Arduino · home-lab automation |
-| 🛡️ Offensive security | Pentest labs · CTF · self-stack hardening |
-
----
-
-## 📈 Industry alignment 2026
-
-```text
-✓  AI agents in production              ✓  RAG / hybrid retrieval
-✓  OpenTelemetry standardization        ✓  SLI/SLO error budgets
-✓  Cross-platform mobile (RN new arch)  ✓  Offline-first architectures
-✓  Self-hosted AI workflows (MCP)       ✓  Cost-optimized data pipelines
-```
-
----
-
-## 🧱 Stack at a glance
+Most of my production work (ERP integrations, observability platform, mobile apps) lives in private repos for clients or my employer - happy to walk through the architecture in a call.
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nestjs,nodejs,tailwind,prisma,graphql,postgres,mongodb,redis,elasticsearch,docker,linux,nginx,grafana,pytorch,tensorflow&perline=10" />
+  <a href="mailto:contact@jordan-s.org"><img src="https://img.shields.io/badge/Email-contact%40jordan--s.org-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://fr.linkedin.com/in/jordan-serafini-63b9b2177"><img src="https://img.shields.io/badge/LinkedIn-Jordan%20Serafini-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
----
+## Some things I've built
 
-## 📊 Github pulse
+**[Compagnon Immo](https://github.com/JordanSerafini/Compagnon_Immo_DataScientest)** - price per m² prediction for French real estate. 5.9M listings, 101 départements, 2019-2026. Random Forest + INSEE socio-economic features, R² 0.958 / RMSE 397€ per m², with SHAP for explainability and a Streamlit demo. My DataScientest capstone.
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JordanSerafini&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanSerafini&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+**[MLOps Météo](https://github.com/JordanSerafini/MlOps_Meteo)** - rain prediction on Australian weather data. The model itself is simple, the real subject is the MLOps lifecycle: reproducible training, serving, monitoring, retraining.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JordanSerafini&theme=tokyonight&hide_border=true" />
-</p>
+**SLI Platform** *(private, employer)* - SLI/SLO observability platform with ML anomaly detection (CatBoost + Isolation Forest served through FastAPI). Bronze/silver/gold ETL, OpenTelemetry everywhere, custom dashboards. Cut our MTTR by roughly 60% on monitored services.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JordanSerafini&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+**EBP App** *(private, client)* - full ERP suite used daily by field technicians: NestJS 11 API, Next.js back-office, Expo mobile app with offline-first sync built on WatermelonDB. Talks to EBP ERP and NinjaOne RMM.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JordanSerafini&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-</p>
+**AURA** *(private)* - my personal AI orchestrator: 100+ agents running on my Linux machine, cron + event driven scheduling, an MCP server with 100+ tools, Telegram and voice control. It's where I experiment with multi-agent patterns before using them anywhere else.
 
----
+**[Vélib DPM](https://github.com/JordanSerafini/Velib_DataScientest)** - data product management case study on the Paris bike-share system: personas, KPI framework, 12-month roadmap, MVP design.
 
-## 📫 Let's talk
+## Stack
 
-Open to discussions on **AI engineering**, **observability**, **NestJS architecture**, and **mobile** — partnerships, freelance, knowledge sharing.
+TypeScript and Python mostly.
 
-<p>
-<a href="mailto:contact@jordan-s.org"><img src="https://img.shields.io/badge/-contact%40jordan--s.org-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://fr.linkedin.com/in/jordan-serafini-63b9b2177"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
+NestJS, FastAPI, Next.js, React Native / Expo, PostgreSQL, MSSQL, Redis, Docker, OpenTelemetry, Grafana, plenty of Linux.
 
-<p align="center">
-  <sub><i>"Make it correct, make it observable, then make it fast."</i></sub>
-</p>
+ML side: scikit-learn, CatBoost / XGBoost, PyTorch, RAG and agentic stuff, MCP.
+
+## Contact
+
+contact@jordan-s.org / [LinkedIn](https://fr.linkedin.com/in/jordan-serafini-63b9b2177)
