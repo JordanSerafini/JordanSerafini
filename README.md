@@ -1,6 +1,6 @@
 # Hey, I'm Jordan 👋
 
-AI engineer and full-stack dev based in France. Most of my time goes into NestJS backends, React Native apps and, more and more, ML pipelines. I just finished a level 7 programme (French RNCP framework, master's level) in AI and machine learning, the Machine Learning Engineer track at Liora (ex DataScientest), with a Mines Paris - PSL Executive Education certificate, on top of a Concepteur Développeur d'Applications title (RNCP 6).
+AI engineer and full-stack dev based in France. Most of my time goes into NestJS backends, React Native apps and, more and more, ML pipelines. I just finished a level 7 programme (French RNCP framework, equivalent to master's level) in AI and machine learning, the Machine Learning Engineer track at Liora (ex DataScientest), with a Mines Paris - PSL Executive Education certificate, on top of a Concepteur Développeur d'Applications title (RNCP 6).
 
 Most of my production work (ERP integrations, internal data platform, mobile apps) lives in private repos for clients or my employer, so the public side here is mostly side projects and school work. Happy to walk through the private architecture in a call.
 
