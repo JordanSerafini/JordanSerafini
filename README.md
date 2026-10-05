@@ -1,14 +1,105 @@
+<div align="center">
+
 # Hey, I'm Jordan 👋
 
-AI engineer and full-stack dev based in France. Most of my time goes into NestJS backends, React Native apps and, more and more, ML pipelines. I just finished a level 7 programme (French RNCP framework, equivalent to master's level) in AI and machine learning, the Machine Learning Engineer track at Liora (ex DataScientest), with a Mines Paris - PSL Executive Education certificate, on top of a Concepteur Développeur d'Applications title (RNCP 6).
+**AI engineer and full-stack developer, based in France**
 
-Most of my production work (ERP integrations, internal data platform, mobile apps) lives in private repos for clients or my employer, so the public side here is mostly side projects and school work. Happy to walk through the private architecture in a call.
+<sub>NestJS · React Native · ML pipelines · autonomous agents</sub>
 
 <p>
   <a href="https://jordan-s.org"><img src="https://img.shields.io/badge/Portfolio-jordan--s.org-f0a83a?style=flat-square" alt="Portfolio" /></a>
   <a href="mailto:contact@jordan-s.org"><img src="https://img.shields.io/badge/Email-contact%40jordan--s.org-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://fr.linkedin.com/in/jordan-serafini-63b9b2177"><img src="https://img.shields.io/badge/LinkedIn-Jordan%20Serafini-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
+</div>
+
+AI engineer and full-stack dev based in France. Most of my time goes into NestJS backends, React Native apps and, more and more, ML pipelines. I just finished a level 7 programme (French RNCP framework, equivalent to master's level) in AI and machine learning, the Machine Learning Engineer track at Liora (ex DataScientest), with a Mines Paris - PSL Executive Education certificate, on top of a Concepteur Développeur d'Applications title (RNCP 6).
+
+Most of my production work (ERP integrations, internal data platform, mobile apps) lives in private repos for clients or my employer, so the public side here is mostly side projects and school work. Happy to walk through the private architecture in a call.
+
+## AURA: a personal AI orchestrator that works while I don't
+
+<div align="center">
+
+[![aura-core](https://img.shields.io/badge/open_source-aura--core-2ea44f?style=for-the-badge)](https://github.com/JordanSerafini/aura-core)
+[![aura-android](https://img.shields.io/badge/open_source-aura--android-2ea44f?style=for-the-badge)](https://github.com/JordanSerafini/aura-android)
+[![case studies](https://img.shields.io/badge/read-the_case_studies-0A66C2?style=for-the-badge)](https://github.com/JordanSerafini/aura-core/tree/main/docs)
+
+</div>
+
+AURA is the project I learn the most from: an orchestrator that runs on my own Linux machine, reaches me on my phone, watch and desktop, keeps my notes current, and does work overnight under a review gate. Most of it is private. Two parts are public, and the rest is documented as honest case studies with measured numbers, failures included.
+
+```mermaid
+flowchart LR
+  subgraph Clients
+    A[Android app]
+    B[Wear OS watch]
+    C[Desktop mascot]
+  end
+  Clients --> S[Bridge server]
+  S --> O[Orchestrator]
+  subgraph Brain
+    O --> H["Scheduler<br/>one markdown task file"]
+    O --> M["Hybrid memory<br/>BM25 + vectors"]
+    O --> N["Night loop<br/>review before merge"]
+    O --> P["Proactive signals"]
+  end
+  M --> V[Notes vault]
+  N --> V
+```
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔔 Proactive, and able to stop</h4>
+      It speaks first, then learns from what I ignore or reject.<br/><br/>
+      <sub>341 suggestions in 30 days, 17 explicitly rejected.</sub><br/>
+      <a href="https://github.com/JordanSerafini/aura-core/blob/main/docs/proactive.md">Read the case study</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌙 Night loop with mandatory review</h4>
+      Autonomous sessions overnight. A model-free gate (parse and dry-run merge) decides what lands.<br/><br/>
+      <sub>218 missions over 28 nights, 39 % with an effect someone else verified, 0 reverts.</sub><br/>
+      <a href="https://github.com/JordanSerafini/aura-core/blob/main/docs/night-loop.md">Read the case study</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📓 A vault Claude keeps current</h4>
+      Markdown notes with generated sections that scripts and sessions rewrite instead of piling up.<br/><br/>
+      <sub>875 notes, 1 finding in 187 checked claims.</sub><br/>
+      <a href="https://github.com/JordanSerafini/aura-core/blob/main/docs/vault.md">Read the case study</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📱 Phone, watch and desktop mascot</h4>
+      Three clients on one server: notifications, phone actions, chat, a mascot that talks first.<br/><br/>
+      <sub>About 16.9k lines of Kotlin, 333 unit tests across the phone and watch apps.</sub><br/>
+      <a href="https://github.com/JordanSerafini/aura-core/blob/main/docs/mobile-and-mascot.md">Read the case study</a>
+    </td>
+  </tr>
+</table>
+
+### Open source parts
+
+| Repo | What it is | Verified |
+|---|---|---|
+| [**aura-core**](https://github.com/JordanSerafini/aura-core) | Hybrid memory (SQLite + sqlite-vec + FTS5, RRF fusion), a retrieval benchmark (recall@3, MRR) and a markdown-driven scheduler | 65 tests pass in a fresh venv |
+| [**aura-android**](https://github.com/JordanSerafini/aura-android) | Phone app (Expo + a Kotlin native module) and Wear OS app. The backend is not included | 260 Kotlin tests (phone module) and 73 (watch) pass |
+
+<details>
+<summary><b>What did not work (and what I am doing about it)</b></summary>
+
+<br/>
+
+- The error-fixing mission is the most frequent one (87 of 218 runs) and has no verified effect.
+- The scheduler was down for about 32 hours in September, with no alert. It is now watched by something outside it.
+- The review gate checks syntax and merge conflicts, not meaning.
+- The overnight loop costs real money. **Next piece of work: cut that cost and make each mission count**, measured as cost per verified effect.
+
+</details>
+
+<sub>All figures: my private instance, measured on 2026-10-05 over the previous 30 days. Sources and caveats are in the case studies.</sub>
 
 ## Some things I've built
 
@@ -22,7 +113,7 @@ Most of my production work (ERP integrations, internal data platform, mobile app
 
 **SportPoint** *(private)* - a sports coaching and community app. Microservices on NestJS behind an API gateway (auth, coaching, spots, chat, notifications), PostgreSQL/Prisma, and a React Native / Expo app. Where I practice splitting a monolith mindset into services.
 
-**AURA** *(private for now)* - my personal AI orchestrator, and the project I learn the most from. Around 150 Python agents on my Linux box, a scheduler driven by a plain markdown file (APScheduler + SQLite, 65 recurring tasks, 26k task runs since May 2026), a nightly self-improvement loop, a unified sqlite-vec memory (9.4k chunks, hybrid BM25 + vector retrieval), a read-only MCP monitoring surface, plus Telegram and voice control. The part I did not expect to care about: it has a measurement bench for its own retrieval (recall@3, MRR, ground truth in version control) and non-regression tests, and that bench has killed five state of the art RAG ideas that looked obvious on paper.
+**AURA** *(partly open source)* - my personal AI orchestrator. See [the section above](#aura-a-personal-ai-orchestrator-that-works-while-i-dont), with [aura-core](https://github.com/JordanSerafini/aura-core) and [aura-android](https://github.com/JordanSerafini/aura-android) public.
 
 **[Vélib DPM](https://github.com/JordanSerafini/Velib_DataScientest)** - a data product management case study on the Paris bike-share: personas, KPI framework, 12-month roadmap, MVP design. No ML here, it's the product side of data.
 
